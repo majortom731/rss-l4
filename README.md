@@ -1,6 +1,6 @@
 # RSS
 
-RSS builder for Laravel 4
+RSS builder for Laravel 5
 
 [![Build Status](https://travis-ci.org/thujohn/rss-l4.png?branch=master)](https://travis-ci.org/thujohn/rss-l4)
 
