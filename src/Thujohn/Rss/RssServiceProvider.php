@@ -28,7 +28,7 @@ class RssServiceProvider extends ServiceProvider {
      */
     public function register()
     {
-        $this->app->singleton('rss', function($app)
+        $this->app->bind('rss', function($app)
         {
             return new Rss;
         });
